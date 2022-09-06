@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\bin\Debug\net6.0\prz004.exe
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\bin\Debug\net6.0\prz004.deps.json
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\bin\Debug\net6.0\prz004.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\bin\Debug\net6.0\prz004.dll
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\bin\Debug\net6.0\prz004.pdb
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.dll
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\refint\prz004.dll
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.pdb
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\prz004.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\DZ2 C#\DZ2\prz004\obj\Debug\net6.0\ref\prz004.dll
